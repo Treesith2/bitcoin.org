@@ -203,7 +203,7 @@ All four parameters used together, with appropriate URI encoding, can be
 seen in the line-wrapped example below.
 
 ~~~
-bitcoin:mjSk1Ny9spzU2fouzYgLqGUD8U41iR35QN\
+bitcoin:1GgVrs98z1Vj4pToACZEr474STadkjYmZ9\
 ?amount=0.10\
 &label=Example+Merchant\
 &message=Order+of+flowers+%26+chocolates
